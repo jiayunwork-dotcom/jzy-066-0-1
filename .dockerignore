@@ -1,0 +1,5 @@
+# 本地数据与构建产物
+/data/
+*.test
+*.out
+stefan-server
